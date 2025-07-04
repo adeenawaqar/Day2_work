@@ -1,14 +1,12 @@
 let language = "Mandarin";
 
-// Values that will not change should be `const`
 const country = "China";
 const continent = "Asia";
 const isIsland = false;
 
-// Values that might change can stay as `let`
 let population = 1.41 // in millon
 
-// No changes to const variables here
+
 console.log(country);
 console.log(continent);
 console.log(isIsland);
